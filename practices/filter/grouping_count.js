@@ -2,6 +2,7 @@
 
 function grouping_count(collection) {
 
+
   //implement here
 }
 
